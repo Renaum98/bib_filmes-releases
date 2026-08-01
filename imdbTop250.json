@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-07-24",
+  "geradoEm": "2026-08-01",
   "fonte": "IMDb datasets (title.ratings + title.basics)",
   "minVotos": 25000,
   "filmes": [
@@ -9,7 +9,7 @@
       "title": "The Shawshank Redemption",
       "year": 1994,
       "rating": 9.3,
-      "votes": 3210783
+      "votes": 3215521
     },
     {
       "rank": 2,
@@ -17,7 +17,7 @@
       "title": "The Godfather",
       "year": 1972,
       "rating": 9.2,
-      "votes": 2239074
+      "votes": 2241978
     },
     {
       "rank": 3,
@@ -25,7 +25,7 @@
       "title": "The Dark Knight",
       "year": 2008,
       "rating": 9.1,
-      "votes": 3192969
+      "votes": 3199958
     },
     {
       "rank": 4,
@@ -33,7 +33,7 @@
       "title": "The Lord of the Rings: The Return of the King",
       "year": 2003,
       "rating": 9,
-      "votes": 2177086
+      "votes": 2179664
     },
     {
       "rank": 5,
@@ -41,7 +41,7 @@
       "title": "Schindler's List",
       "year": 1993,
       "rating": 9,
-      "votes": 1592912
+      "votes": 1594556
     },
     {
       "rank": 6,
@@ -49,7 +49,7 @@
       "title": "The Godfather Part II",
       "year": 1974,
       "rating": 9,
-      "votes": 1502294
+      "votes": 1504086
     },
     {
       "rank": 7,
@@ -57,7 +57,7 @@
       "title": "12 Angry Men",
       "year": 1957,
       "rating": 9,
-      "votes": 992688
+      "votes": 994814
     },
     {
       "rank": 8,
@@ -65,7 +65,7 @@
       "title": "The Lord of the Rings: The Fellowship of the Ring",
       "year": 2001,
       "rating": 8.9,
-      "votes": 2219563
+      "votes": 2222556
     },
     {
       "rank": 9,
@@ -73,7 +73,7 @@
       "title": "Inception",
       "year": 2010,
       "rating": 8.8,
-      "votes": 2838609
+      "votes": 2844786
     },
     {
       "rank": 10,
@@ -81,7 +81,7 @@
       "title": "Fight Club",
       "year": 1999,
       "rating": 8.8,
-      "votes": 2632836
+      "votes": 2638375
     },
     {
       "rank": 11,
@@ -89,7 +89,7 @@
       "title": "Forrest Gump",
       "year": 1994,
       "rating": 8.8,
-      "votes": 2512501
+      "votes": 2516739
     },
     {
       "rank": 12,
@@ -97,7 +97,7 @@
       "title": "Pulp Fiction",
       "year": 1994,
       "rating": 8.8,
-      "votes": 2449830
+      "votes": 2452923
     },
     {
       "rank": 13,
@@ -105,7 +105,7 @@
       "title": "The Lord of the Rings: The Two Towers",
       "year": 2002,
       "rating": 8.8,
-      "votes": 1968695
+      "votes": 1971392
     },
     {
       "rank": 14,
@@ -113,7 +113,7 @@
       "title": "The Good, the Bad and the Ugly",
       "year": 1966,
       "rating": 8.8,
-      "votes": 894685
+      "votes": 895622
     },
     {
       "rank": 15,
@@ -121,7 +121,7 @@
       "title": "Interstellar",
       "year": 2014,
       "rating": 8.7,
-      "votes": 2564319
+      "votes": 2573798
     },
     {
       "rank": 16,
@@ -129,7 +129,7 @@
       "title": "The Matrix",
       "year": 1999,
       "rating": 8.7,
-      "votes": 2261354
+      "votes": 2264191
     },
     {
       "rank": 17,
@@ -137,7 +137,7 @@
       "title": "Star Wars: Episode V - The Empire Strikes Back",
       "year": 1980,
       "rating": 8.7,
-      "votes": 1513278
+      "votes": 1515088
     },
     {
       "rank": 18,
@@ -145,7 +145,7 @@
       "title": "GoodFellas",
       "year": 1990,
       "rating": 8.7,
-      "votes": 1401362
+      "votes": 1403200
     },
     {
       "rank": 19,
@@ -153,7 +153,7 @@
       "title": "Seven",
       "year": 1995,
       "rating": 8.6,
-      "votes": 2038059
+      "votes": 2042074
     },
     {
       "rank": 20,
@@ -161,7 +161,7 @@
       "title": "The Silence of the Lambs",
       "year": 1991,
       "rating": 8.6,
-      "votes": 1734678
+      "votes": 1737120
     },
     {
       "rank": 21,
@@ -169,7 +169,7 @@
       "title": "Saving Private Ryan",
       "year": 1998,
       "rating": 8.6,
-      "votes": 1649945
+      "votes": 1652009
     },
     {
       "rank": 22,
@@ -177,7 +177,7 @@
       "title": "Star Wars: Episode IV - A New Hope",
       "year": 1977,
       "rating": 8.6,
-      "votes": 1578544
+      "votes": 1580285
     },
     {
       "rank": 23,
@@ -185,7 +185,7 @@
       "title": "The Green Mile",
       "year": 1999,
       "rating": 8.6,
-      "votes": 1571886
+      "votes": 1574187
     },
     {
       "rank": 24,
@@ -193,7 +193,7 @@
       "title": "Terminator 2: Judgment Day",
       "year": 1991,
       "rating": 8.6,
-      "votes": 1290745
+      "votes": 1292222
     },
     {
       "rank": 25,
@@ -201,55 +201,55 @@
       "title": "One Flew Over the Cuckoo's Nest",
       "year": 1975,
       "rating": 8.6,
-      "votes": 1160958
+      "votes": 1161928
     },
     {
       "rank": 26,
-      "imdbId": "tt28089784",
-      "title": "Punjab '95",
-      "year": 2026,
-      "rating": 9,
-      "votes": 105011
-    },
-    {
-      "rank": 27,
       "imdbId": "tt0245429",
       "title": "Spirited Away",
       "year": 2001,
       "rating": 8.6,
-      "votes": 975911
+      "votes": 977416
     },
     {
-      "rank": 28,
+      "rank": 27,
       "imdbId": "tt0317248",
       "title": "City of God",
       "year": 2002,
       "rating": 8.6,
-      "votes": 875783
+      "votes": 876931
     },
     {
-      "rank": 29,
+      "rank": 28,
       "imdbId": "tt0118799",
       "title": "Life Is Beautiful",
       "year": 1997,
       "rating": 8.6,
-      "votes": 817135
+      "votes": 818100
     },
     {
-      "rank": 30,
+      "rank": 29,
       "imdbId": "tt0038650",
       "title": "It's a Wonderful Life",
       "year": 1946,
       "rating": 8.6,
-      "votes": 556242
+      "votes": 556719
     },
     {
-      "rank": 31,
+      "rank": 30,
       "imdbId": "tt0047478",
       "title": "Seven Samurai",
       "year": 1954,
       "rating": 8.6,
-      "votes": 403542
+      "votes": 403913
+    },
+    {
+      "rank": 31,
+      "imdbId": "tt28089784",
+      "title": "Punjab '95",
+      "year": 2026,
+      "rating": 8.9,
+      "votes": 105460
     },
     {
       "rank": 32,
@@ -257,7 +257,7 @@
       "title": "Django Unchained",
       "year": 2012,
       "rating": 8.5,
-      "votes": 1896902
+      "votes": 1899964
     },
     {
       "rank": 33,
@@ -265,7 +265,7 @@
       "title": "Gladiator",
       "year": 2000,
       "rating": 8.5,
-      "votes": 1863261
+      "votes": 1866822
     },
     {
       "rank": 34,
@@ -273,7 +273,7 @@
       "title": "The Prestige",
       "year": 2006,
       "rating": 8.5,
-      "votes": 1603439
+      "votes": 1608275
     },
     {
       "rank": 35,
@@ -281,7 +281,7 @@
       "title": "The Departed",
       "year": 2006,
       "rating": 8.5,
-      "votes": 1564357
+      "votes": 1567004
     },
     {
       "rank": 36,
@@ -289,7 +289,7 @@
       "title": "Back to the Future",
       "year": 1985,
       "rating": 8.5,
-      "votes": 1463006
+      "votes": 1465238
     },
     {
       "rank": 37,
@@ -297,7 +297,7 @@
       "title": "Léon: The Professional",
       "year": 1994,
       "rating": 8.5,
-      "votes": 1357627
+      "votes": 1358893
     },
     {
       "rank": 38,
@@ -305,7 +305,7 @@
       "title": "American History X",
       "year": 1998,
       "rating": 8.5,
-      "votes": 1279161
+      "votes": 1280275
     },
     {
       "rank": 39,
@@ -313,7 +313,7 @@
       "title": "The Lion King",
       "year": 1994,
       "rating": 8.5,
-      "votes": 1267548
+      "votes": 1269362
     },
     {
       "rank": 40,
@@ -321,7 +321,7 @@
       "title": "The Usual Suspects",
       "year": 1995,
       "rating": 8.5,
-      "votes": 1245024
+      "votes": 1246365
     },
     {
       "rank": 41,
@@ -329,7 +329,7 @@
       "title": "Parasite",
       "year": 2019,
       "rating": 8.5,
-      "votes": 1179045
+      "votes": 1181886
     },
     {
       "rank": 42,
@@ -337,7 +337,7 @@
       "title": "Whiplash",
       "year": 2014,
       "rating": 8.5,
-      "votes": 1167337
+      "votes": 1169830
     },
     {
       "rank": 43,
@@ -345,7 +345,7 @@
       "title": "The Intouchables",
       "year": 2011,
       "rating": 8.5,
-      "votes": 1034112
+      "votes": 1035569
     },
     {
       "rank": 44,
@@ -353,7 +353,7 @@
       "title": "The Pianist",
       "year": 2002,
       "rating": 8.5,
-      "votes": 1017561
+      "votes": 1018823
     },
     {
       "rank": 45,
@@ -361,7 +361,7 @@
       "title": "12th Fail",
       "year": 2023,
       "rating": 8.7,
-      "votes": 174490
+      "votes": 174898
     },
     {
       "rank": 46,
@@ -369,7 +369,7 @@
       "title": "Psycho",
       "year": 1960,
       "rating": 8.5,
-      "votes": 789473
+      "votes": 790288
     },
     {
       "rank": 47,
@@ -377,7 +377,7 @@
       "title": "Casablanca",
       "year": 1942,
       "rating": 8.5,
-      "votes": 657507
+      "votes": 658058
     },
     {
       "rank": 48,
@@ -385,7 +385,7 @@
       "title": "The Kashmir Files",
       "year": 2022,
       "rating": 8.5,
-      "votes": 579412
+      "votes": 579461
     },
     {
       "rank": 49,
@@ -393,7 +393,7 @@
       "title": "Spider-Man: Across the Spider-Verse",
       "year": 2023,
       "rating": 8.5,
-      "votes": 536198
+      "votes": 538734
     },
     {
       "rank": 50,
@@ -401,7 +401,7 @@
       "title": "Jai Bhim",
       "year": 2021,
       "rating": 8.6,
-      "votes": 235281
+      "votes": 235417
     },
     {
       "rank": 51,
@@ -409,7 +409,7 @@
       "title": "Grave of the Fireflies",
       "year": 1988,
       "rating": 8.5,
-      "votes": 390697
+      "votes": 391660
     },
     {
       "rank": 52,
@@ -417,7 +417,7 @@
       "title": "Once Upon a Time in the West",
       "year": 1968,
       "rating": 8.5,
-      "votes": 385778
+      "votes": 386108
     },
     {
       "rank": 53,
@@ -425,7 +425,7 @@
       "title": "The Dark Knight Rises",
       "year": 2012,
       "rating": 8.4,
-      "votes": 2008776
+      "votes": 2012581
     },
     {
       "rank": 54,
@@ -433,7 +433,7 @@
       "title": "Inglourious Basterds",
       "year": 2009,
       "rating": 8.4,
-      "votes": 1800415
+      "votes": 1804091
     },
     {
       "rank": 55,
@@ -441,7 +441,7 @@
       "title": "Avengers: Endgame",
       "year": 2019,
       "rating": 8.4,
-      "votes": 1461735
+      "votes": 1465568
     },
     {
       "rank": 56,
@@ -449,7 +449,7 @@
       "title": "Memento",
       "year": 2000,
       "rating": 8.4,
-      "votes": 1444951
+      "votes": 1448127
     },
     {
       "rank": 57,
@@ -457,7 +457,7 @@
       "title": "Avengers: Infinity War",
       "year": 2018,
       "rating": 8.4,
-      "votes": 1386488
+      "votes": 1390253
     },
     {
       "rank": 58,
@@ -465,7 +465,7 @@
       "title": "WALL·E",
       "year": 2008,
       "rating": 8.4,
-      "votes": 1330916
+      "votes": 1332785
     },
     {
       "rank": 59,
@@ -473,7 +473,7 @@
       "title": "Cinema Paradiso",
       "year": 1988,
       "rating": 8.5,
-      "votes": 318425
+      "votes": 318782
     },
     {
       "rank": 60,
@@ -481,7 +481,7 @@
       "title": "The Shining",
       "year": 1980,
       "rating": 8.4,
-      "votes": 1233824
+      "votes": 1235634
     },
     {
       "rank": 61,
@@ -489,7 +489,7 @@
       "title": "Good Will Hunting",
       "year": 1997,
       "rating": 8.4,
-      "votes": 1228399
+      "votes": 1230970
     },
     {
       "rank": 62,
@@ -497,7 +497,7 @@
       "title": "Raiders of the Lost Ark",
       "year": 1981,
       "rating": 8.4,
-      "votes": 1114897
+      "votes": 1115929
     },
     {
       "rank": 63,
@@ -505,119 +505,119 @@
       "title": "Alien",
       "year": 1979,
       "rating": 8.4,
-      "votes": 1069744
+      "votes": 1070882
     },
     {
       "rank": 64,
-      "imdbId": "tt0027977",
-      "title": "Modern Times",
-      "year": 1936,
-      "rating": 8.5,
-      "votes": 286358
-    },
-    {
-      "rank": 65,
-      "imdbId": "tt0090605",
-      "title": "Aliens",
-      "year": 1986,
-      "rating": 8.4,
-      "votes": 843541
-    },
-    {
-      "rank": 66,
-      "imdbId": "tt4633694",
-      "title": "Spider-Man: Into the Spider-Verse",
-      "year": 2018,
-      "rating": 8.4,
-      "votes": 799931
-    },
-    {
-      "rank": 67,
-      "imdbId": "tt15239678",
-      "title": "Dune: Part Two",
-      "year": 2024,
-      "rating": 8.4,
-      "votes": 775733
-    },
-    {
-      "rank": 68,
-      "imdbId": "tt0078788",
-      "title": "Apocalypse Now",
-      "year": 1979,
-      "rating": 8.4,
-      "votes": 773830
-    },
-    {
-      "rank": 69,
-      "imdbId": "tt2380307",
-      "title": "Coco",
-      "year": 2017,
-      "rating": 8.4,
-      "votes": 716935
-    },
-    {
-      "rank": 70,
-      "imdbId": "tt0047396",
-      "title": "Rear Window",
-      "year": 1954,
-      "rating": 8.4,
-      "votes": 570825
-    },
-    {
-      "rank": 71,
-      "imdbId": "tt1187043",
-      "title": "3 Idiots",
-      "year": 2009,
-      "rating": 8.4,
-      "votes": 485953
-    },
-    {
-      "rank": 72,
-      "imdbId": "tt0086879",
-      "title": "Amadeus",
-      "year": 1984,
-      "rating": 8.4,
-      "votes": 470539
-    },
-    {
-      "rank": 73,
-      "imdbId": "tt0021749",
-      "title": "City Lights",
-      "year": 1931,
-      "rating": 8.5,
-      "votes": 217260
-    },
-    {
-      "rank": 74,
-      "imdbId": "tt0405094",
-      "title": "The Lives of Others",
-      "year": 2006,
-      "rating": 8.4,
-      "votes": 445004
-    },
-    {
-      "rank": 75,
-      "imdbId": "tt5311514",
-      "title": "Your Name.",
-      "year": 2016,
-      "rating": 8.4,
-      "votes": 398605
-    },
-    {
-      "rank": 76,
-      "imdbId": "tt10189514",
-      "title": "Soorarai Pottru",
-      "year": 2020,
-      "rating": 8.6,
-      "votes": 132340
-    },
-    {
-      "rank": 77,
       "imdbId": "tt33764258",
       "title": "The Odyssey",
       "year": 2026,
       "rating": 8.5,
-      "votes": 184056
+      "votes": 296224
+    },
+    {
+      "rank": 65,
+      "imdbId": "tt0027977",
+      "title": "Modern Times",
+      "year": 1936,
+      "rating": 8.5,
+      "votes": 286638
+    },
+    {
+      "rank": 66,
+      "imdbId": "tt0090605",
+      "title": "Aliens",
+      "year": 1986,
+      "rating": 8.4,
+      "votes": 844254
+    },
+    {
+      "rank": 67,
+      "imdbId": "tt4633694",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "rating": 8.4,
+      "votes": 802098
+    },
+    {
+      "rank": 68,
+      "imdbId": "tt15239678",
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "rating": 8.4,
+      "votes": 779163
+    },
+    {
+      "rank": 69,
+      "imdbId": "tt0078788",
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "rating": 8.4,
+      "votes": 774473
+    },
+    {
+      "rank": 70,
+      "imdbId": "tt2380307",
+      "title": "Coco",
+      "year": 2017,
+      "rating": 8.4,
+      "votes": 718705
+    },
+    {
+      "rank": 71,
+      "imdbId": "tt0047396",
+      "title": "Rear Window",
+      "year": 1954,
+      "rating": 8.4,
+      "votes": 571298
+    },
+    {
+      "rank": 72,
+      "imdbId": "tt1187043",
+      "title": "3 Idiots",
+      "year": 2009,
+      "rating": 8.4,
+      "votes": 486508
+    },
+    {
+      "rank": 73,
+      "imdbId": "tt0086879",
+      "title": "Amadeus",
+      "year": 1984,
+      "rating": 8.4,
+      "votes": 470973
+    },
+    {
+      "rank": 74,
+      "imdbId": "tt0021749",
+      "title": "City Lights",
+      "year": 1931,
+      "rating": 8.5,
+      "votes": 217412
+    },
+    {
+      "rank": 75,
+      "imdbId": "tt0405094",
+      "title": "The Lives of Others",
+      "year": 2006,
+      "rating": 8.4,
+      "votes": 445328
+    },
+    {
+      "rank": 76,
+      "imdbId": "tt5311514",
+      "title": "Your Name.",
+      "year": 2016,
+      "rating": 8.4,
+      "votes": 399594
+    },
+    {
+      "rank": 77,
+      "imdbId": "tt10189514",
+      "title": "Soorarai Pottru",
+      "year": 2020,
+      "rating": 8.6,
+      "votes": 132402
     },
     {
       "rank": 78,
@@ -625,7 +625,7 @@
       "title": "Joker",
       "year": 2019,
       "rating": 8.3,
-      "votes": 1708082
+      "votes": 1711232
     },
     {
       "rank": 79,
@@ -633,7 +633,7 @@
       "title": "American Beauty",
       "year": 1999,
       "rating": 8.3,
-      "votes": 1282999
+      "votes": 1283845
     },
     {
       "rank": 80,
@@ -641,7 +641,7 @@
       "title": "Up",
       "year": 2009,
       "rating": 8.3,
-      "votes": 1245476
+      "votes": 1247410
     },
     {
       "rank": 81,
@@ -649,23 +649,23 @@
       "title": "Star Wars: Episode VI - Return of the Jedi",
       "year": 1983,
       "rating": 8.3,
-      "votes": 1216288
+      "votes": 1217642
     },
     {
       "rank": 82,
-      "imdbId": "tt0338013",
-      "title": "Eternal Sunshine of the Spotless Mind",
-      "year": 2004,
-      "rating": 8.3,
-      "votes": 1188374
-    },
-    {
-      "rank": 83,
       "imdbId": "tt0114709",
       "title": "Toy Story",
       "year": 1995,
       "rating": 8.3,
-      "votes": 1187741
+      "votes": 1189848
+    },
+    {
+      "rank": 83,
+      "imdbId": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "rating": 8.3,
+      "votes": 1189725
     },
     {
       "rank": 84,
@@ -673,7 +673,7 @@
       "title": "Braveheart",
       "year": 1995,
       "rating": 8.3,
-      "votes": 1166298
+      "votes": 1167333
     },
     {
       "rank": 85,
@@ -681,7 +681,7 @@
       "title": "Scarface",
       "year": 1983,
       "rating": 8.3,
-      "votes": 1024648
+      "votes": 1026294
     },
     {
       "rank": 86,
@@ -689,7 +689,7 @@
       "title": "Toy Story 3",
       "year": 2010,
       "rating": 8.3,
-      "votes": 981549
+      "votes": 983186
     },
     {
       "rank": 87,
@@ -697,7 +697,7 @@
       "title": "Requiem for a Dream",
       "year": 2000,
       "rating": 8.3,
-      "votes": 978845
+      "votes": 979914
     },
     {
       "rank": 88,
@@ -705,7 +705,7 @@
       "title": "The Chaos Class",
       "year": 1975,
       "rating": 9.1,
-      "votes": 46479
+      "votes": 46522
     },
     {
       "rank": 89,
@@ -713,7 +713,7 @@
       "title": "Heat",
       "year": 1995,
       "rating": 8.3,
-      "votes": 811420
+      "votes": 812529
     },
     {
       "rank": 90,
@@ -721,7 +721,7 @@
       "title": "Sunset Boulevard",
       "year": 1950,
       "rating": 8.4,
-      "votes": 262417
+      "votes": 262670
     },
     {
       "rank": 91,
@@ -729,7 +729,7 @@
       "title": "2001: A Space Odyssey",
       "year": 1968,
       "rating": 8.3,
-      "votes": 787343
+      "votes": 788275
     },
     {
       "rank": 92,
@@ -737,7 +737,7 @@
       "title": "The Great Dictator",
       "year": 1940,
       "rating": 8.4,
-      "votes": 259170
+      "votes": 259366
     },
     {
       "rank": 93,
@@ -745,7 +745,7 @@
       "title": "Oldboy",
       "year": 2003,
       "rating": 8.3,
-      "votes": 725281
+      "votes": 726374
     },
     {
       "rank": 94,
@@ -753,7 +753,7 @@
       "title": "Paths of Glory",
       "year": 1957,
       "rating": 8.4,
-      "votes": 240702
+      "votes": 241276
     },
     {
       "rank": 95,
@@ -761,7 +761,7 @@
       "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
       "year": 1964,
       "rating": 8.3,
-      "votes": 552205
+      "votes": 552588
     },
     {
       "rank": 96,
@@ -769,7 +769,7 @@
       "title": "Princess Mononoke",
       "year": 1997,
       "rating": 8.3,
-      "votes": 486802
+      "votes": 487498
     },
     {
       "rank": 97,
@@ -777,7 +777,7 @@
       "title": "The Hunt",
       "year": 2012,
       "rating": 8.3,
-      "votes": 413624
+      "votes": 414386
     },
     {
       "rank": 98,
@@ -785,7 +785,7 @@
       "title": "Once Upon a Time in America",
       "year": 1984,
       "rating": 8.3,
-      "votes": 409918
+      "votes": 410263
     },
     {
       "rank": 99,
@@ -793,7 +793,7 @@
       "title": "North by Northwest",
       "year": 1959,
       "rating": 8.3,
-      "votes": 369935
+      "votes": 370216
     },
     {
       "rank": 100,
@@ -801,7 +801,7 @@
       "title": "Harakiri",
       "year": 1962,
       "rating": 8.6,
-      "votes": 92586
+      "votes": 92878
     },
     {
       "rank": 101,
@@ -809,7 +809,7 @@
       "title": "Lawrence of Arabia",
       "year": 1962,
       "rating": 8.3,
-      "votes": 343388
+      "votes": 343847
     },
     {
       "rank": 102,
@@ -817,7 +817,7 @@
       "title": "The Wolf of Wall Street",
       "year": 2013,
       "rating": 8.2,
-      "votes": 1805665
+      "votes": 1809553
     },
     {
       "rank": 103,
@@ -825,7 +825,7 @@
       "title": "Batman Begins",
       "year": 2005,
       "rating": 8.2,
-      "votes": 1727267
+      "votes": 1730681
     },
     {
       "rank": 104,
@@ -833,7 +833,7 @@
       "title": "Shutter Island",
       "year": 2010,
       "rating": 8.2,
-      "votes": 1664207
+      "votes": 1667883
     },
     {
       "rank": 105,
@@ -841,7 +841,7 @@
       "title": "The Truman Show",
       "year": 1998,
       "rating": 8.2,
-      "votes": 1388788
+      "votes": 1391749
     },
     {
       "rank": 106,
@@ -849,7 +849,7 @@
       "title": "Witness for the Prosecution",
       "year": 1957,
       "rating": 8.4,
-      "votes": 163141
+      "votes": 163322
     },
     {
       "rank": 107,
@@ -857,7 +857,7 @@
       "title": "Das Boot",
       "year": 1981,
       "rating": 8.3,
-      "votes": 289103
+      "votes": 289340
     },
     {
       "rank": 108,
@@ -865,7 +865,7 @@
       "title": "Kill Bill: Vol. 1",
       "year": 2003,
       "rating": 8.2,
-      "votes": 1315543
+      "votes": 1317164
     },
     {
       "rank": 109,
@@ -873,7 +873,7 @@
       "title": "Singin' in the Rain",
       "year": 1952,
       "rating": 8.3,
-      "votes": 284160
+      "votes": 284409
     },
     {
       "rank": 110,
@@ -881,7 +881,7 @@
       "title": "Finding Nemo",
       "year": 2003,
       "rating": 8.2,
-      "votes": 1216369
+      "votes": 1217987
     },
     {
       "rank": 111,
@@ -889,7 +889,7 @@
       "title": "No Country for Old Men",
       "year": 2007,
       "rating": 8.2,
-      "votes": 1201464
+      "votes": 1203448
     },
     {
       "rank": 112,
@@ -897,7 +897,7 @@
       "title": "Jurassic Park",
       "year": 1993,
       "rating": 8.2,
-      "votes": 1187685
+      "votes": 1190202
     },
     {
       "rank": 113,
@@ -905,7 +905,7 @@
       "title": "Reservoir Dogs",
       "year": 1992,
       "rating": 8.2,
-      "votes": 1175109
+      "votes": 1176211
     },
     {
       "rank": 114,
@@ -913,7 +913,7 @@
       "title": "The Sixth Sense",
       "year": 1999,
       "rating": 8.2,
-      "votes": 1151572
+      "votes": 1153101
     },
     {
       "rank": 115,
@@ -921,7 +921,7 @@
       "title": "A Separation",
       "year": 2011,
       "rating": 8.3,
-      "votes": 279041
+      "votes": 279266
     },
     {
       "rank": 116,
@@ -929,7 +929,7 @@
       "title": "Oppenheimer",
       "year": 2023,
       "rating": 8.2,
-      "votes": 1068153
+      "votes": 1074517
     },
     {
       "rank": 117,
@@ -937,7 +937,7 @@
       "title": "A Beautiful Mind",
       "year": 2001,
       "rating": 8.2,
-      "votes": 1058246
+      "votes": 1059144
     },
     {
       "rank": 118,
@@ -945,7 +945,7 @@
       "title": "Die Hard",
       "year": 1988,
       "rating": 8.2,
-      "votes": 1034055
+      "votes": 1034939
     },
     {
       "rank": 119,
@@ -953,7 +953,7 @@
       "title": "Taxi Driver",
       "year": 1976,
       "rating": 8.2,
-      "votes": 1033395
+      "votes": 1034917
     },
     {
       "rank": 120,
@@ -961,7 +961,7 @@
       "title": "Snatch",
       "year": 2000,
       "rating": 8.2,
-      "votes": 980314
+      "votes": 981151
     },
     {
       "rank": 121,
@@ -969,7 +969,7 @@
       "title": "Prisoners",
       "year": 2013,
       "rating": 8.2,
-      "votes": 945818
+      "votes": 948182
     },
     {
       "rank": 122,
@@ -977,7 +977,7 @@
       "title": "A Clockwork Orange",
       "year": 1971,
       "rating": 8.2,
-      "votes": 939859
+      "votes": 940670
     },
     {
       "rank": 123,
@@ -985,7 +985,7 @@
       "title": "Top Gun: Maverick",
       "year": 2022,
       "rating": 8.2,
-      "votes": 892773
+      "votes": 895166
     },
     {
       "rank": 124,
@@ -993,7 +993,7 @@
       "title": "Indiana Jones and the Last Crusade",
       "year": 1989,
       "rating": 8.2,
-      "votes": 866879
+      "votes": 867635
     },
     {
       "rank": 125,
@@ -1001,23 +1001,23 @@
       "title": "Full Metal Jacket",
       "year": 1987,
       "rating": 8.2,
-      "votes": 854353
+      "votes": 855215
     },
     {
       "rank": 126,
-      "imdbId": "tt0211915",
-      "title": "Amélie",
-      "year": 2001,
-      "rating": 8.2,
-      "votes": 843268
-    },
-    {
-      "rank": 127,
       "imdbId": "tt1255953",
       "title": "Incendies",
       "year": 2010,
       "rating": 8.3,
-      "votes": 254881
+      "votes": 255674
+    },
+    {
+      "rank": 127,
+      "imdbId": "tt0211915",
+      "title": "Amélie",
+      "year": 2001,
+      "rating": 8.2,
+      "votes": 843889
     },
     {
       "rank": 128,
@@ -1025,7 +1025,7 @@
       "title": "1917",
       "year": 2019,
       "rating": 8.2,
-      "votes": 777955
+      "votes": 779410
     },
     {
       "rank": 129,
@@ -1033,7 +1033,7 @@
       "title": "Dangal",
       "year": 2016,
       "rating": 8.3,
-      "votes": 245733
+      "votes": 246084
     },
     {
       "rank": 130,
@@ -1041,7 +1041,7 @@
       "title": "Pan's Labyrinth",
       "year": 2006,
       "rating": 8.2,
-      "votes": 749623
+      "votes": 750199
     },
     {
       "rank": 131,
@@ -1049,7 +1049,7 @@
       "title": "There Will Be Blood",
       "year": 2007,
       "rating": 8.2,
-      "votes": 713688
+      "votes": 714556
     },
     {
       "rank": 132,
@@ -1057,23 +1057,23 @@
       "title": "Green Book",
       "year": 2018,
       "rating": 8.2,
-      "votes": 694557
+      "votes": 696048
     },
     {
       "rank": 133,
-      "imdbId": "tt0119488",
-      "title": "L.A. Confidential",
-      "year": 1997,
-      "rating": 8.2,
-      "votes": 660747
-    },
-    {
-      "rank": 134,
       "imdbId": "tt0986264",
       "title": "Like Stars on Earth",
       "year": 2007,
       "rating": 8.3,
-      "votes": 234280
+      "votes": 234553
+    },
+    {
+      "rank": 134,
+      "imdbId": "tt0119488",
+      "title": "L.A. Confidential",
+      "year": 1997,
+      "rating": 8.2,
+      "votes": 661161
     },
     {
       "rank": 135,
@@ -1081,7 +1081,7 @@
       "title": "Casino",
       "year": 1995,
       "rating": 8.2,
-      "votes": 623545
+      "votes": 624268
     },
     {
       "rank": 136,
@@ -1089,7 +1089,7 @@
       "title": "The Apartment",
       "year": 1960,
       "rating": 8.3,
-      "votes": 221256
+      "votes": 221728
     },
     {
       "rank": 137,
@@ -1097,7 +1097,7 @@
       "title": "The Thing",
       "year": 1982,
       "rating": 8.2,
-      "votes": 530264
+      "votes": 530999
     },
     {
       "rank": 138,
@@ -1105,7 +1105,7 @@
       "title": "Howl's Moving Castle",
       "year": 2004,
       "rating": 8.2,
-      "votes": 517022
+      "votes": 517842
     },
     {
       "rank": 139,
@@ -1113,31 +1113,31 @@
       "title": "Citizen Kane",
       "year": 1941,
       "rating": 8.2,
-      "votes": 494522
+      "votes": 494853
     },
     {
       "rank": 140,
-      "imdbId": "tt0105695",
-      "title": "Unforgiven",
-      "year": 1992,
-      "rating": 8.2,
-      "votes": 470155
-    },
-    {
-      "rank": 141,
-      "imdbId": "tt0052357",
-      "title": "Vertigo",
-      "year": 1958,
-      "rating": 8.2,
-      "votes": 460338
-    },
-    {
-      "rank": 142,
       "imdbId": "tt12042730",
       "title": "Project Hail Mary",
       "year": 2026,
       "rating": 8.2,
-      "votes": 447075
+      "votes": 471579
+    },
+    {
+      "rank": 141,
+      "imdbId": "tt0105695",
+      "title": "Unforgiven",
+      "year": 1992,
+      "rating": 8.2,
+      "votes": 470541
+    },
+    {
+      "rank": 142,
+      "imdbId": "tt0052357",
+      "title": "Vertigo",
+      "year": 1958,
+      "rating": 8.2,
+      "votes": 460714
     },
     {
       "rank": 143,
@@ -1145,7 +1145,7 @@
       "title": "Capernaum",
       "year": 2018,
       "rating": 8.4,
-      "votes": 125565
+      "votes": 125753
     },
     {
       "rank": 144,
@@ -1153,7 +1153,7 @@
       "title": "Downfall",
       "year": 2004,
       "rating": 8.2,
-      "votes": 402007
+      "votes": 402348
     },
     {
       "rank": 145,
@@ -1161,7 +1161,7 @@
       "title": "M",
       "year": 1931,
       "rating": 8.3,
-      "votes": 183518
+      "votes": 183656
     },
     {
       "rank": 146,
@@ -1169,7 +1169,7 @@
       "title": "Double Indemnity",
       "year": 1944,
       "rating": 8.3,
-      "votes": 182319
+      "votes": 182469
     },
     {
       "rank": 147,
@@ -1177,7 +1177,7 @@
       "title": "Gone with the Wind",
       "year": 1939,
       "rating": 8.2,
-      "votes": 356950
+      "votes": 357202
     },
     {
       "rank": 148,
@@ -1185,7 +1185,7 @@
       "title": "To Kill a Mockingbird",
       "year": 1962,
       "rating": 8.2,
-      "votes": 351821
+      "votes": 352040
     },
     {
       "rank": 149,
@@ -1193,7 +1193,7 @@
       "title": "Sita Ramam",
       "year": 2022,
       "rating": 8.5,
-      "votes": 84711
+      "votes": 84814
     },
     {
       "rank": 150,
@@ -1201,7 +1201,7 @@
       "title": "Some Like It Hot",
       "year": 1959,
       "rating": 8.2,
-      "votes": 305812
+      "votes": 306060
     },
     {
       "rank": 151,
@@ -1209,7 +1209,7 @@
       "title": "The Sting",
       "year": 1973,
       "rating": 8.2,
-      "votes": 303675
+      "votes": 303984
     },
     {
       "rank": 152,
@@ -1217,7 +1217,7 @@
       "title": "For a Few Dollars More",
       "year": 1965,
       "rating": 8.2,
-      "votes": 301754
+      "votes": 302092
     },
     {
       "rank": 153,
@@ -1225,7 +1225,7 @@
       "title": "The Elephant Man",
       "year": 1980,
       "rating": 8.2,
-      "votes": 282659
+      "votes": 282975
     },
     {
       "rank": 154,
@@ -1233,7 +1233,7 @@
       "title": "The Great Escape",
       "year": 1963,
       "rating": 8.2,
-      "votes": 278635
+      "votes": 278845
     },
     {
       "rank": 155,
@@ -1241,7 +1241,7 @@
       "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
       "year": 2003,
       "rating": 8.1,
-      "votes": 1334451
+      "votes": 1336801
     },
     {
       "rank": 156,
@@ -1249,7 +1249,7 @@
       "title": "Catch Me If You Can",
       "year": 2002,
       "rating": 8.1,
-      "votes": 1251969
+      "votes": 1254093
     },
     {
       "rank": 157,
@@ -1257,7 +1257,7 @@
       "title": "V for Vendetta",
       "year": 2005,
       "rating": 8.1,
-      "votes": 1250833
+      "votes": 1251699
     },
     {
       "rank": 158,
@@ -1265,7 +1265,7 @@
       "title": "Mad Max: Fury Road",
       "year": 2015,
       "rating": 8.1,
-      "votes": 1212891
+      "votes": 1214237
     },
     {
       "rank": 159,
@@ -1273,7 +1273,7 @@
       "title": "20 Days in Mariupol",
       "year": 2023,
       "rating": 8.6,
-      "votes": 65244
+      "votes": 65308
     },
     {
       "rank": 160,
@@ -1281,7 +1281,7 @@
       "title": "Gone Girl",
       "year": 2014,
       "rating": 8.1,
-      "votes": 1178069
+      "votes": 1179602
     },
     {
       "rank": 161,
@@ -1289,7 +1289,7 @@
       "title": "Monsters, Inc.",
       "year": 2001,
       "rating": 8.1,
-      "votes": 1082381
+      "votes": 1084151
     },
     {
       "rank": 162,
@@ -1297,23 +1297,23 @@
       "title": "Harry Potter and the Deathly Hallows: Part 2",
       "year": 2011,
       "rating": 8.1,
-      "votes": 1053638
+      "votes": 1055240
     },
     {
       "rank": 163,
-      "imdbId": "tt10872600",
-      "title": "Spider-Man: No Way Home",
-      "year": 2021,
-      "rating": 8.1,
-      "votes": 1035214
-    },
-    {
-      "rank": 164,
       "imdbId": "tt33014583",
       "title": "Dhurandhar",
       "year": 2025,
       "rating": 8.3,
-      "votes": 147233
+      "votes": 147740
+    },
+    {
+      "rank": 164,
+      "imdbId": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "rating": 8.1,
+      "votes": 1040828
     },
     {
       "rank": 165,
@@ -1321,7 +1321,7 @@
       "title": "The Terminator",
       "year": 1984,
       "rating": 8.1,
-      "votes": 1010603
+      "votes": 1011670
     },
     {
       "rank": 166,
@@ -1329,7 +1329,7 @@
       "title": "The Grand Budapest Hotel",
       "year": 2014,
       "rating": 8.1,
-      "votes": 978792
+      "votes": 980272
     },
     {
       "rank": 167,
@@ -1337,7 +1337,7 @@
       "title": "Ratatouille",
       "year": 2007,
       "rating": 8.1,
-      "votes": 954615
+      "votes": 956688
     },
     {
       "rank": 168,
@@ -1345,7 +1345,7 @@
       "title": "Logan",
       "year": 2017,
       "rating": 8.1,
-      "votes": 932019
+      "votes": 933276
     },
     {
       "rank": 169,
@@ -1353,7 +1353,7 @@
       "title": "Inside Out",
       "year": 2015,
       "rating": 8.1,
-      "votes": 923944
+      "votes": 925555
     },
     {
       "rank": 170,
@@ -1361,7 +1361,7 @@
       "title": "The Big Lebowski",
       "year": 1998,
       "rating": 8.1,
-      "votes": 920075
+      "votes": 920803
     },
     {
       "rank": 171,
@@ -1369,7 +1369,7 @@
       "title": "How to Train Your Dragon",
       "year": 2010,
       "rating": 8.1,
-      "votes": 901368
+      "votes": 902805
     },
     {
       "rank": 172,
@@ -1377,7 +1377,7 @@
       "title": "The Father",
       "year": 2020,
       "rating": 8.2,
-      "votes": 247255
+      "votes": 247679
     },
     {
       "rank": 173,
@@ -1385,7 +1385,7 @@
       "title": "Blade Runner",
       "year": 1982,
       "rating": 8.1,
-      "votes": 885365
+      "votes": 886271
     },
     {
       "rank": 174,
@@ -1393,7 +1393,7 @@
       "title": "Gran Torino",
       "year": 2008,
       "rating": 8.1,
-      "votes": 865903
+      "votes": 866594
     },
     {
       "rank": 175,
@@ -1401,7 +1401,7 @@
       "title": "The Secret in Their Eyes",
       "year": 2009,
       "rating": 8.2,
-      "votes": 243722
+      "votes": 243989
     },
     {
       "rank": 176,
@@ -1409,7 +1409,7 @@
       "title": "Hamilton",
       "year": 2020,
       "rating": 8.3,
-      "votes": 141062
+      "votes": 141365
     },
     {
       "rank": 177,
@@ -1417,7 +1417,7 @@
       "title": "Klaus",
       "year": 2019,
       "rating": 8.2,
-      "votes": 239612
+      "votes": 240163
     },
     {
       "rank": 178,
@@ -1425,7 +1425,7 @@
       "title": "Fargo",
       "year": 1996,
       "rating": 8.1,
-      "votes": 790789
+      "votes": 791533
     },
     {
       "rank": 179,
@@ -1433,7 +1433,7 @@
       "title": "12 Years a Slave",
       "year": 2013,
       "rating": 8.1,
-      "votes": 790387
+      "votes": 791143
     },
     {
       "rank": 180,
@@ -1441,7 +1441,7 @@
       "title": "Trainspotting",
       "year": 1996,
       "rating": 8.1,
-      "votes": 770924
+      "votes": 771476
     },
     {
       "rank": 181,
@@ -1449,7 +1449,7 @@
       "title": "Million Dollar Baby",
       "year": 2004,
       "rating": 8.1,
-      "votes": 769470
+      "votes": 770102
     },
     {
       "rank": 182,
@@ -1457,7 +1457,7 @@
       "title": "Jaws",
       "year": 1975,
       "rating": 8.1,
-      "votes": 743911
+      "votes": 745063
     },
     {
       "rank": 183,
@@ -1465,23 +1465,23 @@
       "title": "Rocketry: The Nambi Effect",
       "year": 2022,
       "rating": 8.6,
-      "votes": 62352
+      "votes": 62389
     },
     {
       "rank": 184,
-      "imdbId": "tt8110330",
-      "title": "Dil Bechara",
-      "year": 2020,
-      "rating": 8.3,
-      "votes": 137993
-    },
-    {
-      "rank": 185,
       "imdbId": "tt29623480",
       "title": "The Wild Robot",
       "year": 2024,
       "rating": 8.2,
-      "votes": 231193
+      "votes": 232401
+    },
+    {
+      "rank": 185,
+      "imdbId": "tt8110330",
+      "title": "Dil Bechara",
+      "year": 2020,
+      "rating": 8.3,
+      "votes": 138029
     },
     {
       "rank": 186,
@@ -1489,7 +1489,7 @@
       "title": "Shershaah",
       "year": 2021,
       "rating": 8.3,
-      "votes": 137002
+      "votes": 137068
     },
     {
       "rank": 187,
@@ -1497,7 +1497,7 @@
       "title": "Rocky",
       "year": 1976,
       "rating": 8.1,
-      "votes": 694960
+      "votes": 696143
     },
     {
       "rank": 188,
@@ -1505,7 +1505,7 @@
       "title": "Hacksaw Ridge",
       "year": 2016,
       "rating": 8.1,
-      "votes": 688438
+      "votes": 690028
     },
     {
       "rank": 189,
@@ -1513,7 +1513,7 @@
       "title": "Dead Poets Society",
       "year": 1989,
       "rating": 8.1,
-      "votes": 660667
+      "votes": 662086
     },
     {
       "rank": 190,
@@ -1521,7 +1521,7 @@
       "title": "Lock, Stock and Two Smoking Barrels",
       "year": 1998,
       "rating": 8.1,
-      "votes": 651255
+      "votes": 651731
     },
     {
       "rank": 191,
@@ -1529,7 +1529,7 @@
       "title": "Three Billboards Outside Ebbing, Missouri",
       "year": 2017,
       "rating": 8.1,
-      "votes": 611584
+      "votes": 612262
     },
     {
       "rank": 192,
@@ -1537,7 +1537,7 @@
       "title": "Monty Python and the Holy Grail",
       "year": 1975,
       "rating": 8.1,
-      "votes": 605109
+      "votes": 605562
     },
     {
       "rank": 193,
@@ -1545,7 +1545,7 @@
       "title": "Ford v Ferrari",
       "year": 2019,
       "rating": 8.1,
-      "votes": 578464
+      "votes": 579884
     },
     {
       "rank": 194,
@@ -1553,7 +1553,7 @@
       "title": "Rush",
       "year": 2013,
       "rating": 8.1,
-      "votes": 562589
+      "votes": 563347
     },
     {
       "rank": 195,
@@ -1561,7 +1561,7 @@
       "title": "Spotlight",
       "year": 2015,
       "rating": 8.1,
-      "votes": 537796
+      "votes": 538277
     },
     {
       "rank": 196,
@@ -1569,7 +1569,7 @@
       "title": "Warrior",
       "year": 2011,
       "rating": 8.1,
-      "votes": 531081
+      "votes": 531500
     },
     {
       "rank": 197,
@@ -1577,31 +1577,31 @@
       "title": "The Help",
       "year": 2011,
       "rating": 8.1,
-      "votes": 530509
+      "votes": 530825
     },
     {
       "rank": 198,
+      "imdbId": "tt6019206",
+      "title": "Kill Bill: The Whole Bloody Affair",
+      "year": 2004,
+      "rating": 8.7,
+      "votes": 50577
+    },
+    {
+      "rank": 199,
       "imdbId": "tt0017136",
       "title": "Metropolis",
       "year": 1927,
       "rating": 8.2,
-      "votes": 202101
+      "votes": 202252
     },
     {
-      "rank": 199,
+      "rank": 200,
       "imdbId": "tt0070047",
       "title": "The Exorcist",
       "year": 1973,
       "rating": 8.1,
-      "votes": 500866
-    },
-    {
-      "rank": 200,
-      "imdbId": "tt0092005",
-      "title": "Stand by Me",
-      "year": 1986,
-      "rating": 8.1,
-      "votes": 490609
+      "votes": 501516
     },
     {
       "rank": 201,
@@ -1609,47 +1609,47 @@
       "title": "Come and See",
       "year": 1985,
       "rating": 8.3,
-      "votes": 124757
+      "votes": 125026
     },
     {
       "rank": 202,
+      "imdbId": "tt0092005",
+      "title": "Stand by Me",
+      "year": 1986,
+      "rating": 8.1,
+      "votes": 491296
+    },
+    {
+      "rank": 203,
       "imdbId": "tt3170832",
       "title": "Room",
       "year": 2015,
       "rating": 8.1,
-      "votes": 482281
+      "votes": 482728
     },
     {
-      "rank": 203,
+      "rank": 204,
       "imdbId": "tt0032138",
       "title": "The Wizard of Oz",
       "year": 1939,
       "rating": 8.1,
-      "votes": 469933
+      "votes": 470397
     },
     {
-      "rank": 204,
+      "rank": 205,
       "imdbId": "tt0040522",
       "title": "Bicycle Thieves",
       "year": 1948,
       "rating": 8.2,
-      "votes": 192318
+      "votes": 192480
     },
     {
-      "rank": 205,
+      "rank": 206,
       "imdbId": "tt0096283",
       "title": "My Neighbor Totoro",
       "year": 1988,
       "rating": 8.1,
-      "votes": 435641
-    },
-    {
-      "rank": 206,
-      "imdbId": "tt6019206",
-      "title": "Kill Bill: The Whole Bloody Affair",
-      "year": 2004,
-      "rating": 8.7,
-      "votes": 48872
+      "votes": 436281
     },
     {
       "rank": 207,
@@ -1657,7 +1657,7 @@
       "title": "Raging Bull",
       "year": 1980,
       "rating": 8.1,
-      "votes": 411763
+      "votes": 412164
     },
     {
       "rank": 208,
@@ -1665,31 +1665,31 @@
       "title": "Hotel Rwanda",
       "year": 2004,
       "rating": 8.1,
-      "votes": 393331
+      "votes": 393579
     },
     {
       "rank": 209,
+      "imdbId": "tt33175825",
+      "title": "Attack on Titan: The Last Attack",
+      "year": 2024,
+      "rating": 9,
+      "votes": 33617
+    },
+    {
+      "rank": 210,
       "imdbId": "tt0077416",
       "title": "The Deer Hunter",
       "year": 1978,
       "rating": 8.1,
-      "votes": 387520
+      "votes": 387824
     },
     {
-      "rank": 210,
+      "rank": 211,
       "imdbId": "tt0112471",
       "title": "Before Sunrise",
       "year": 1995,
       "rating": 8.1,
-      "votes": 380923
-    },
-    {
-      "rank": 211,
-      "imdbId": "tt0071315",
-      "title": "Chinatown",
-      "year": 1974,
-      "rating": 8.1,
-      "votes": 377965
+      "votes": 381436
     },
     {
       "rank": 212,
@@ -1697,39 +1697,39 @@
       "title": "777 Charlie",
       "year": 2022,
       "rating": 8.7,
-      "votes": 48043
+      "votes": 48103
     },
     {
       "rank": 213,
+      "imdbId": "tt0071315",
+      "title": "Chinatown",
+      "year": 1974,
+      "rating": 8.1,
+      "votes": 378275
+    },
+    {
+      "rank": 214,
       "imdbId": "tt1424432",
       "title": "Senna",
       "year": 2010,
       "rating": 8.4,
-      "votes": 83931
+      "votes": 83989
     },
     {
-      "rank": 214,
+      "rank": 215,
       "imdbId": "tt10698680",
       "title": "K.G.F: Chapter 2",
       "year": 2022,
       "rating": 8.2,
-      "votes": 170794
+      "votes": 170917
     },
     {
-      "rank": 215,
+      "rank": 216,
       "imdbId": "tt1028532",
       "title": "Hachi: A Dog's Tale",
       "year": 2009,
       "rating": 8.1,
-      "votes": 345373
-    },
-    {
-      "rank": 216,
-      "imdbId": "tt33175825",
-      "title": "Attack on Titan: The Last Attack",
-      "year": 2024,
-      "rating": 9,
-      "votes": 32920
+      "votes": 345906
     },
     {
       "rank": 217,
@@ -1737,7 +1737,7 @@
       "title": "David Attenborough: A Life on Our Planet",
       "year": 2020,
       "rating": 8.9,
-      "votes": 36269
+      "votes": 36288
     },
     {
       "rank": 218,
@@ -1745,7 +1745,7 @@
       "title": "Before Sunset",
       "year": 2004,
       "rating": 8.1,
-      "votes": 317494
+      "votes": 317869
     },
     {
       "rank": 219,
@@ -1753,7 +1753,7 @@
       "title": "The Sound of Music",
       "year": 1965,
       "rating": 8.1,
-      "votes": 292801
+      "votes": 293159
     },
     {
       "rank": 220,
@@ -1761,7 +1761,7 @@
       "title": "Ran",
       "year": 1985,
       "rating": 8.2,
-      "votes": 153184
+      "votes": 153403
     },
     {
       "rank": 221,
@@ -1769,7 +1769,7 @@
       "title": "Ikiru",
       "year": 1952,
       "rating": 8.3,
-      "votes": 103081
+      "votes": 103218
     },
     {
       "rank": 222,
@@ -1777,31 +1777,31 @@
       "title": "All About Eve",
       "year": 1950,
       "rating": 8.2,
-      "votes": 149896
+      "votes": 150011
     },
     {
       "rank": 223,
+      "imdbId": "tt32820897",
+      "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
+      "year": 2025,
+      "rating": 8.4,
+      "votes": 77449
+    },
+    {
+      "rank": 224,
       "imdbId": "tt0052618",
       "title": "Ben-Hur",
       "year": 1959,
       "rating": 8.1,
-      "votes": 272068
+      "votes": 272311
     },
     {
-      "rank": 224,
+      "rank": 225,
       "imdbId": "tt0353969",
       "title": "Memories of Murder",
       "year": 2003,
       "rating": 8.1,
-      "votes": 270998
-    },
-    {
-      "rank": 225,
-      "imdbId": "tt0012349",
-      "title": "The Kid",
-      "year": 1921,
-      "rating": 8.2,
-      "votes": 146288
+      "votes": 271682
     },
     {
       "rank": 226,
@@ -1809,55 +1809,55 @@
       "title": "A Silent Voice: The Movie",
       "year": 2016,
       "rating": 8.2,
-      "votes": 146188
+      "votes": 146821
     },
     {
       "rank": 227,
+      "imdbId": "tt0012349",
+      "title": "The Kid",
+      "year": 1921,
+      "rating": 8.2,
+      "votes": 146433
+    },
+    {
+      "rank": 228,
       "imdbId": "tt0848228",
       "title": "The Avengers",
       "year": 2012,
       "rating": 8,
-      "votes": 1566760
+      "votes": 1568976
     },
     {
-      "rank": 228,
+      "rank": 229,
       "imdbId": "tt0129167",
       "title": "The Iron Giant",
       "year": 1999,
       "rating": 8.1,
-      "votes": 262909
+      "votes": 263362
     },
     {
-      "rank": 229,
+      "rank": 230,
       "imdbId": "tt0120338",
       "title": "Titanic",
       "year": 1997,
       "rating": 8,
-      "votes": 1402091
-    },
-    {
-      "rank": 230,
-      "imdbId": "tt32820897",
-      "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
-      "year": 2025,
-      "rating": 8.4,
-      "votes": 76003
+      "votes": 1403831
     },
     {
       "rank": 231,
-      "imdbId": "tt2015381",
-      "title": "Guardians of the Galaxy",
-      "year": 2014,
-      "rating": 8,
-      "votes": 1371289
-    },
-    {
-      "rank": 232,
       "imdbId": "tt0055630",
       "title": "Yojimbo",
       "year": 1961,
       "rating": 8.2,
-      "votes": 143851
+      "votes": 143995
+    },
+    {
+      "rank": 232,
+      "imdbId": "tt2015381",
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "rating": 8,
+      "votes": 1373159
     },
     {
       "rank": 233,
@@ -1865,7 +1865,7 @@
       "title": "Deadpool",
       "year": 2016,
       "rating": 8,
-      "votes": 1261536
+      "votes": 1263080
     },
     {
       "rank": 234,
@@ -1873,7 +1873,7 @@
       "title": "The Treasure of the Sierra Madre",
       "year": 1948,
       "rating": 8.2,
-      "votes": 142052
+      "votes": 142152
     },
     {
       "rank": 235,
@@ -1881,7 +1881,7 @@
       "title": "Judgment at Nuremberg",
       "year": 1961,
       "rating": 8.3,
-      "votes": 97540
+      "votes": 97688
     },
     {
       "rank": 236,
@@ -1889,7 +1889,7 @@
       "title": "The Bridge on the River Kwai",
       "year": 1957,
       "rating": 8.1,
-      "votes": 249550
+      "votes": 249720
     },
     {
       "rank": 237,
@@ -1897,7 +1897,7 @@
       "title": "Dune: Part One",
       "year": 2021,
       "rating": 8,
-      "votes": 1075291
+      "votes": 1078428
     },
     {
       "rank": 238,
@@ -1905,7 +1905,7 @@
       "title": "The Martian",
       "year": 2015,
       "rating": 8,
-      "votes": 1020468
+      "votes": 1022101
     },
     {
       "rank": 239,
@@ -1913,7 +1913,7 @@
       "title": "Wild Tales",
       "year": 2014,
       "rating": 8.1,
-      "votes": 239902
+      "votes": 240173
     },
     {
       "rank": 240,
@@ -1921,7 +1921,7 @@
       "title": "The Revenant",
       "year": 2015,
       "rating": 8,
-      "votes": 955237
+      "votes": 956121
     },
     {
       "rank": 241,
@@ -1929,7 +1929,7 @@
       "title": "Donnie Darko",
       "year": 2001,
       "rating": 8,
-      "votes": 915274
+      "votes": 915952
     },
     {
       "rank": 242,
@@ -1937,23 +1937,23 @@
       "title": "Slumdog Millionaire",
       "year": 2008,
       "rating": 8,
-      "votes": 912572
+      "votes": 912961
     },
     {
       "rank": 243,
-      "imdbId": "tt0317705",
-      "title": "The Incredibles",
-      "year": 2004,
-      "rating": 8,
-      "votes": 908535
-    },
-    {
-      "rank": 244,
       "imdbId": "tt4849438",
       "title": "Baahubali 2: The Conclusion",
       "year": 2017,
       "rating": 8.2,
-      "votes": 135437
+      "votes": 135601
+    },
+    {
+      "rank": 244,
+      "imdbId": "tt0317705",
+      "title": "The Incredibles",
+      "year": 2004,
+      "rating": 8,
+      "votes": 910076
     },
     {
       "rank": 245,
@@ -1961,7 +1961,7 @@
       "title": "Black Swan",
       "year": 2010,
       "rating": 8,
-      "votes": 893162
+      "votes": 893960
     },
     {
       "rank": 246,
@@ -1969,7 +1969,7 @@
       "title": "The Imitation Game",
       "year": 2014,
       "rating": 8,
-      "votes": 881344
+      "votes": 881900
     },
     {
       "rank": 247,
@@ -1977,7 +1977,7 @@
       "title": "Kill Bill: Vol. 2",
       "year": 2004,
       "rating": 8,
-      "votes": 874750
+      "votes": 875583
     },
     {
       "rank": 248,
@@ -1985,23 +1985,23 @@
       "title": "High and Low",
       "year": 1963,
       "rating": 8.4,
-      "votes": 72575
+      "votes": 72735
     },
     {
       "rank": 249,
-      "imdbId": "tt0401792",
-      "title": "Sin City",
-      "year": 2005,
-      "rating": 8,
-      "votes": 822179
-    },
-    {
-      "rank": 250,
       "imdbId": "tt0113247",
       "title": "La haine",
       "year": 1995,
       "rating": 8.1,
-      "votes": 229067
+      "votes": 229476
+    },
+    {
+      "rank": 250,
+      "imdbId": "tt0401792",
+      "title": "Sin City",
+      "year": 2005,
+      "rating": 8,
+      "votes": 822430
     }
   ]
 }
